@@ -6,7 +6,7 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Live Demo](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Demo.gif)
+![Live Demo](https://github.com/jaloliddin16012001/myproject1/blob/1b22f921c4013b2b0beeca0cdff61c3a6bcbcc46/Demo.gif)
 
 
 
@@ -39,81 +39,16 @@ Ushbu ma'lumotlar bazasi ikkita sinfga tegishli __3835 ta rasmdan iborat:
 
 ## :key: Shartlar
 
-Barcha bog'liqliklar va kerakli kutubxonalar <code> requirements.txt </code> fayliga kiritilgan [Bu yerga qarang] (https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
+Barcha bog'liqliklar va kerakli kutubxonalar <code> requirements.txt </code> fayliga kiritilgan [Bu yerga qarang] (https://github.com/jaloliddin16012001/myproject1/blob/1b22f921c4013b2b0beeca0cdff61c3a6bcbcc46/requirements.txt)
 
-## 🚀&nbsp; Installation
-1. Clone the repo
-```
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
-```
 
-2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
-```
-$ mkvirtualenv test
-```
 
-3. Now, run the following command in your Terminal/Command Prompt to install the libraries required
-```
-$ pip3 install -r requirements.txt
-```
 
-## :bulb: Working
+## :clap: Tugadi!
+Shubhalar / so'rovlar uchun menga elektron pochta orqali xabar yuborishingiz mumkin:
+elektron pochta: jaloliddin.16.01.2001@gmail.com
 
-1. Open terminal. Go into the cloned project directory and type the following command:
-```
-$ python3 train_mask_detector.py --dataset dataset
-```
 
-2. To detect face masks in an image type the following command: 
-```
-$ python3 detect_mask_image.py --image images/pic1.jpeg
-```
 
-3. To detect face masks in real-time video streams type the following command:
-```
-$ python3 detect_mask_video.py 
-```
-## :key: Results
-
-#### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
-
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
-
-#### We got the following accuracy/loss training curve plot
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
-
-## Streamlit app
-
-Face Mask Detector webapp using Tensorflow & Streamlit
-
-command
-```
-$ streamlit run app.py 
-```
-## Images
-
-<p align="center">
-  <img src="Readme_images/1.PNG">
-</p>
-<p align="center">Upload Images</p>
-
-<p align="center">
-  <img src="Readme_images/2.PNG">
-</p>
-<p align="center">Results</p>
-
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
-
-## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
-
-## :heart: Owner
-Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
-
-## :+1: Credits
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
-* [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 
