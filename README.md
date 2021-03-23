@@ -29,21 +29,17 @@ Bizning yuzimiz uchun niqob detektori biron bir niqoblangan niqoblangan tasvirla
 Shuning uchun ushbu tizim Covid-19 avj olganligi sababli xavfsizlik uchun yuz maskalarini aniqlashni talab qiladigan real vaqtda dasturlarda ishlatilishi mumkin. Ushbu loyihani aeroportlarda, temir yo'l stantsiyalarida, idoralarda, maktablarda va jamoat joylarida qo'llash uchun ko'milgan tizimlar bilan birlashtirish mumkin.
 
 ## :file_folder: Ma'lumotlar to'plami
-The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG?usp=sharing)
+Amaldagi ma'lumotlar to'plamini bu erdan yuklab olish mumkin - [Yuklash uchun bosing](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG?usp=sharing)
 
-This dataset consists of __3835 images__ belonging to two classes:
-*	__with_mask: 1916 images__
-*	__without_mask: 1919 images__
+Ushbu ma'lumotlar bazasi ikkita sinfga tegishli __3835 ta rasmdan iborat:
+*	__maska_bilan: 1916 images__
+*	__maskasiz_: 1919 images__
 
-The images used were real images of faces wearing masks. The images were collected from the following sources:
 
-* __Bing Search API__ ([See Python script](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/search.py))
-* __Kaggle datasets__ 
-* __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))
 
-## :key: Prerequisites
+## :key: Shartlar
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
+Barcha bog'liqliklar va kerakli kutubxonalar <code> requirements.txt </code> fayliga kiritilgan [Bu yerga qarang] (https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
 
 ## 🚀&nbsp; Installation
 1. Clone the repo
@@ -120,5 +116,4 @@ Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
-## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)
+
