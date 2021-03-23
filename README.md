@@ -23,12 +23,12 @@ Covid-19 tufayli ushbu xavfsizlikni ta'minlash uchun transport vositalari, aholi
 - [TensorFlow](https://www.tensorflow.org/)
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
-## :star: Features
-Our face mask detector didn't use any morphed masked images dataset. The model is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient and thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
+## :star: Xususiyatlari
+Bizning yuzimiz uchun niqob detektori biron bir niqoblangan niqoblangan tasvirlar to'plamidan foydalanmadi. Model aniq va biz MobileNetV2 arxitekturasidan foydalanganimiz sababli, u hisoblash samaradorligi bilan ajralib turadi va shu bilan modelni ichki tizimlarga joylashtirishni osonlashtiradi (Raspberry Pi, Google Coral va boshqalar).
 
-This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
+Shuning uchun ushbu tizim Covid-19 avj olganligi sababli xavfsizlik uchun yuz maskalarini aniqlashni talab qiladigan real vaqtda dasturlarda ishlatilishi mumkin. Ushbu loyihani aeroportlarda, temir yo'l stantsiyalarida, idoralarda, maktablarda va jamoat joylarida qo'llash uchun ko'milgan tizimlar bilan birlashtirish mumkin.
 
-## :file_folder: Dataset
+## :file_folder: Ma'lumotlar to'plami
 The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG?usp=sharing)
 
 This dataset consists of __3835 images__ belonging to two classes:
